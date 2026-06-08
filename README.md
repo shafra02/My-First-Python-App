@@ -1,2 +1,2 @@
 # My-First-Python-App
-s simple calculator with pythonn
+a simple calculator with pythonn
